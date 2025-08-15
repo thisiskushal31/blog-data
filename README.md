@@ -8,4 +8,4 @@ The purpose of `blog-data` is to act as a single source of truth for all blog po
 ## Copyright and Licensing
 © 2025 Kushal Gupta. All Rights Reserved.
 
-All content within this repository, including but not limited to blog posts, images, and associated files, is the exclusive property of Kushal Das. This content is not to be used, reproduced, or distributed without explicit permission.
+All content within this repository, including but not limited to blog posts, images, and associated files, is the exclusive property of Kushal Gupta. This content is not to be used, reproduced, or distributed without explicit permission.
